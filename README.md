@@ -20,6 +20,6 @@ Bu Java programı öğrenci kayıt sistemini temsil eder. Bu kayıt sistemi Inte
 
 9)OgretimGorevlisi.java : Öğretim Görevlisi özelliklerini ve vereceği dersleri temsil etmek üzere oluşturulmuştur. Öğretim görevlisi bilgilerini depolamak ve erişim sağlama için kullanılmıştır.
 
-10) OgretimGorevlisiForm.form : Bu form, öğretim görevlisi adı, soyadı ve vereceği ders ile ilgili bölümleri kaydetmek için kullanılır ve bu bilgileri 'ogretim_gorevlileri.csv' dosyasına kaydeder.
+10)OgretimGorevlisiForm.form : Bu form, öğretim görevlisi adı, soyadı ve vereceği ders ile ilgili bölümleri kaydetmek için kullanılır ve bu bilgileri 'ogretim_gorevlileri.csv' dosyasına kaydeder.
     
-11) Ogretim GorevlisiForm.java : Bir öğretim görevlisi kayıt formunu temsil eder. Kullanıcılar, öğretim görevlisi adı, soyadı ve vereceği dersleri girebilir ve CSV dosyasına kaydedebilir.
+11)Ogretim GorevlisiForm.java : Bir öğretim görevlisi kayıt formunu temsil eder. Kullanıcılar, öğretim görevlisi adı, soyadı ve vereceği dersleri girebilir ve CSV dosyasına kaydedebilir.
